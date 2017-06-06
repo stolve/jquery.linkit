@@ -1,0 +1,33 @@
+{
+	"name": "linkIt",
+	"title": "jQuery LinkIt",
+	"description": "Simple plugin to convert any element into a link.",
+	"keywords": [
+		"link",
+		"html",
+		"content"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Sal Tolve",
+		"url": "https://github.com/stolve/jquery.linkit"
+	},
+	"maintainers": [
+		{
+			"name": "Sal Tolve",
+			"email": "stolve@outlook.com",
+			"url": "https://github.com/stolve/"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/stolve/jquery.linkit/LICENSE.txt"
+		}
+	],
+	"homepage": "https://github.com/stolve/jquery.linkit",
+	"docs": "https://github.com/stolve/jquery.linkit",
+	"dependencies": {
+		"jquery": ">=1.9"
+	}
+}
